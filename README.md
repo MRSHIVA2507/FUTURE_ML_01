@@ -238,10 +238,8 @@ Contributions are welcome! Please:
 ![Dashboard](dashboard.png)
 
 ### Forecast Visualization
-![Forecast](forecast.png)
+![Forecast](forecasting.png)
 
-### Business Insights
-![Insights](businessinsights.png)
 
 ---
 
