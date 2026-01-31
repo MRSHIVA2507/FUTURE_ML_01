@@ -235,24 +235,16 @@ Contributions are welcome! Please:
 ## � Screenshots
 
 ### Dashboard Overview
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](dashboard.png)
 
 ### Forecast Visualization
-![Forecast](screenshots/forecast.png)
+![Forecast](forecast.png)
 
 ### Business Insights
-![Insights](screenshots/insights.png)
+![Insights](businessinsights.png)
 
 ---
 
-## 🔮 Roadmap
-
-- [ ] Support for multiple products/categories
-- [ ] Export to PDF reports
-- [ ] Email alerts for anomalies
-- [ ] REST API integration
-- [ ] Docker deployment
-- [ ] Cloud hosting (AWS/Azure/GCP)
 
 ---
 
